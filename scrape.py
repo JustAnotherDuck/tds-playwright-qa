@@ -3,16 +3,16 @@ from playwright.async_api import async_playwright
 
 # REPLACE THESE WITH YOUR 10 ACTUAL LINKS FROM THE ASSIGNMENT
 URLS = [
-    "https://example.com/seed-58-link-here",
-    "https://example.com/seed-59-link-here",
-    "https://example.com/seed-60-link-here",
-    "https://example.com/seed-61-link-here",
-    "https://example.com/seed-62-link-here",
-    "https://example.com/seed-63-link-here",
-    "https://example.com/seed-64-link-here",
-    "https://example.com/seed-65-link-here",
-    "https://example.com/seed-66-link-here",
-    "https://example.com/seed-67-link-here"
+    "https://sanand0.github.io/tdsdata/js_table/?seed=58",
+    "https://sanand0.github.io/tdsdata/js_table/?seed=59",
+    "https://sanand0.github.io/tdsdata/js_table/?seed=60",
+    "https://sanand0.github.io/tdsdata/js_table/?seed=61",
+    "https://sanand0.github.io/tdsdata/js_table/?seed=62
+    "https://sanand0.github.io/tdsdata/js_table/?seed=63",
+    "https://sanand0.github.io/tdsdata/js_table/?seed=64",
+    "https://sanand0.github.io/tdsdata/js_table/?seed=65",
+    "https://sanand0.github.io/tdsdata/js_table/?seed=66",
+    "https://sanand0.github.io/tdsdata/js_table/?seed=67"
 ]
 
 async def main():
