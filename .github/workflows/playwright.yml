@@ -23,6 +23,5 @@ jobs:
           pip install playwright
           playwright install chromium
 
-      # THIS STEP NAME IS STRICTLY REQUIRED BY THE GRADER
       - name: Run Scraper for 24f2007992@ds.study.iitm.ac.in
         run: python scrape.py
